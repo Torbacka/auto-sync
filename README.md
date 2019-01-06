@@ -1,2 +1,2 @@
 # auto-sync
-Automatically sync subtitals in VLC
+Automatically sync subtitles in VLC
